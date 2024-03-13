@@ -460,7 +460,9 @@ class DiveWorld {
  */
 const outputNames = [
     "row[output]",
-col[output]
+	"col[output]",
+"map[from]"
+
 ];
 /**
  * 切換時[範例中進入傳送點時]回傳的地圖[列]
