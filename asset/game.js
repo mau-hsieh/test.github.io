@@ -459,8 +459,8 @@ class DiveWorld {
  * 要傳遞的輸出屬性名稱，請確保每個屬性在各實驗中都設定好I/O並名稱一致
  */
 const outputNames = [
-    "Money",
-
+    "row[output]",
+col[output]
 ];
 /**
  * 切換時[範例中進入傳送點時]回傳的地圖[列]
