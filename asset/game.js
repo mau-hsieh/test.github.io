@@ -461,7 +461,7 @@ class DiveWorld {
 const outputNames = [
     "row[output]",
 	"col[output]",
-"map[from]"
+"map[now]"
 
 ];
 /**
@@ -477,7 +477,7 @@ const map_col = 3; //地圖行
 const map_row = 2; //地圖列
 const map = [
     30060, 30061, 30062, 
-	30063, 30064, 30060
+	30063, 30064,  30060
 ];
 /**
  * 「指定預載」
